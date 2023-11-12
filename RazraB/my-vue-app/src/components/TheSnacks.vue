@@ -109,7 +109,7 @@ export default {
     margin-right: 70px;
     width: 270px;
     height: 270px;
-    background-blend-mode: color;
+    background-blend-mode: color;  
 }
 .SnacksText {
     margin-top: 0px;
